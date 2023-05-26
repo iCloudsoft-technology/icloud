@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e55d2afb.css",
-    "main.js": "/static/js/main.487811f7.js",
+    "main.js": "/static/js/main.50f11d7b.js",
     "static/media/IcloudSoftCompany.mp4": "/static/media/IcloudSoftCompany.3e04516605b1b6d92f57.mp4",
     "static/media/IcloudSoftCompany1.mp4": "/static/media/IcloudSoftCompany1.8c483c2f0facef01c6a4.mp4",
     "static/media/aboutUs-baner.png": "/static/media/aboutUs-baner.7c58f7c28804387b4972.png",
@@ -78,10 +78,10 @@
     "static/media/Remote-working.webp": "/static/media/Remote-working.53cfa697265fd3d57d80.webp",
     "static/media/Compliance&Security.webp": "/static/media/Compliance&Security.f9cbf8c7ec829422558d.webp",
     "main.e55d2afb.css.map": "/static/css/main.e55d2afb.css.map",
-    "main.487811f7.js.map": "/static/js/main.487811f7.js.map"
+    "main.50f11d7b.js.map": "/static/js/main.50f11d7b.js.map"
   },
   "entrypoints": [
     "static/css/main.e55d2afb.css",
-    "static/js/main.487811f7.js"
+    "static/js/main.50f11d7b.js"
   ]
 }

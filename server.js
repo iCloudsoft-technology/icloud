@@ -14,7 +14,7 @@ const path =require('path')
 const app = express();
 
 
-app.use(cors({credentials: true, origin: "https://icloudsoft.onrender.com/);  
+app.use(cors({credentials: true, origin: "https://icloudsoft.onrender.com/");  
 app.use(bodyParser.json());
 // app.use(cors({credentials: true, origin: "http://localhost:3002"}));            ////middleware  
 app.use(urlencoded({extended:true}))
